@@ -26,6 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}           
     - run: yarn install
+    - run: yarn test
     - run: yarn build
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
