@@ -15,7 +15,7 @@
     "jszip": "^3.7.0",
     "lodash": "^4.17.21",
     "measuretool-googlemaps-v3": "^0.4.2",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.1",
